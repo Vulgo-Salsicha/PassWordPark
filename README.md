@@ -9,4 +9,4 @@ Download the .exe to install Password Park in your PC.
 
 The compact file has the entire project in C# if you want to analyze it.
 
-PP 1.1 
+PP 1.2 
